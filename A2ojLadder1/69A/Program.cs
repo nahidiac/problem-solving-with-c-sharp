@@ -1,5 +1,9 @@
 ﻿using System;
 
+/*
+     For a resulant force to be zero, sum of their components along the x, y, and z-axes need to be zero individually. That's it.
+*/
+
 namespace _69A
 {
     class Program
