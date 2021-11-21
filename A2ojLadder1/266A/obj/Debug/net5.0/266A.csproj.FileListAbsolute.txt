@@ -1,0 +1,16 @@
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\bin\Debug\net5.0\266A.exe
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\bin\Debug\net5.0\266A.deps.json
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\bin\Debug\net5.0\266A.runtimeconfig.json
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\bin\Debug\net5.0\266A.runtimeconfig.dev.json
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\bin\Debug\net5.0\266A.dll
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\bin\Debug\net5.0\ref\266A.dll
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\bin\Debug\net5.0\266A.pdb
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\obj\Debug\net5.0\266A.csproj.AssemblyReference.cache
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\obj\Debug\net5.0\266A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\obj\Debug\net5.0\266A.AssemblyInfoInputs.cache
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\obj\Debug\net5.0\266A.AssemblyInfo.cs
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\obj\Debug\net5.0\266A.csproj.CoreCompileInputs.cache
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\obj\Debug\net5.0\266A.dll
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\obj\Debug\net5.0\ref\266A.dll
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\obj\Debug\net5.0\266A.pdb
+D:\Code\c-sharp\problem-solving-with-c-sharp\A2ojLadder1\266A\obj\Debug\net5.0\266A.genruntimeconfig.cache
